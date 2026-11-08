@@ -36,7 +36,8 @@ The images are stored in `images/original/`.
 
 **Source:** Personal photographs taken in Venice, Italy.  
 **Copyright:** Retained by the author.  
-**Usage:** Included in this repository for reviewing and reproducing this educational experiment. No separate license for reuse is granted.
+**License:** The source code is released under the MIT license (see `LICENSE`). The photographs are not covered by it.
+**Usage:** The photographs are included in this repository for reviewing and reproducing this educational experiment. No license for reuse of the photographs is granted.
 
 The original photographs are used as references when calculating MSE and PSNR. In real-world situations, a clean reference image may not be available.
 
